@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.1.6466
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Config", "Config\Config.csproj", "{FF6E4113-3ABD-4E4B-AAB4-3C7073F6E0C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6E4113-3ABD-4E4B-AAB4-3C7073F6E0C3}.Debug|x86.Build.0 = Debug|x86
+		{FF6E4113-3ABD-4E4B-AAB4-3C7073F6E0C3}.Debug|x86.ActiveCfg = Debug|x86
+		{FF6E4113-3ABD-4E4B-AAB4-3C7073F6E0C3}.Release|x86.Build.0 = Release|x86
+		{FF6E4113-3ABD-4E4B-AAB4-3C7073F6E0C3}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
