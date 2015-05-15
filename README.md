@@ -28,6 +28,11 @@ these static methods, let you store properites values with spaces at the begin a
 end and also, except the plain text, binary data can also be stored as value for the 
 properties.
 
+## Documentation
+The full documentation of this library is hosted at http://www.multipetros.gr/files/confing/docs/index.html  
+You can also download the off-line documentation from the latest 
+[GitHub release](https://github.com/multipetros/Confing/releases/latest).
+
 
 ## License
 This program is free software distributed under the FreeBSD,
