@@ -140,6 +140,20 @@ namespace Multipetros.Config{
 				}
 			}
 		}
+
+        	// Removes section from file
+	        public void DeleteSection(string section)
+	        {
+	            if (sections.ContainsKey(section))
+	            {
+	                sections.Remove(section);
+	
+	                if (autosave)
+	                {
+	                    Save();
+	                }
+	            }
+	        }
 		
 		/// <summary>
 		/// Store properties to file
